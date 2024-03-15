@@ -1,0 +1,1 @@
+# Derin öğrenme alanında bulunan yoğunlukla görüntü sınıflandırma amacı ile kullanılan CNN (konvolüsyonel sinir ağları) olan bu sinir ağları görüntü işleme alanında sıkça kullanılır ve bu pdf üzerinde çok detaylı olmıcak şekilde bir CNN anlatımı vardır temel bir şekilde mantıgınızı kavramınızı sağlar
